@@ -1,1 +1,2 @@
 Hello, Git and GitHub!
+Hello, this is a message from my cloned repository
